@@ -1,6 +1,6 @@
-![NatFlix](https://github.com/natoliveira/NatFlix/blob/master/NatFlix.png)
-
 ## Home page do projeto NatFlix.
+
+![NatFlix](https://github.com/natoliveira/NatFlix/blob/master/NatFlix.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
